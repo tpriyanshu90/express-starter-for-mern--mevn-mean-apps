@@ -8,6 +8,6 @@
 3. `npm start` in project directory
 4. Server will start on http://localhost:3000
 
-This server will serve all static files from public folder. You can create a react-app and after running `npm-build` copy the static files in public folder. or you can change the path of static files to build or dist in `app.js` file.
+This server will serve all static files from public folder. You can create a react-app, angular app or Vue and after running `npm-build` copy the static files in public folder. or you can change the path of static files to build or dist in `app.js` file.
 
 Happy Cracking!
