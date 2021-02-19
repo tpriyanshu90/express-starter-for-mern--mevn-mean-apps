@@ -1,4 +1,4 @@
-# Express App Generator for MERN/ MEAN / MEVN apps
+# Express App Generator for MERN / MEAN / MEVN apps
 
 
 # Steps to run
