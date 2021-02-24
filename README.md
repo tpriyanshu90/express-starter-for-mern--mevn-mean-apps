@@ -10,6 +10,6 @@
 
 This server will serve all static files from public folder. You can create a react-app, angular app or Vue and after running `npm run build` copy the static files in public folder. or you can change the path of static files to build or dist in `app.js` file.
 
-If there any issues in the repository, or you want to upgrade the code strucutre, just send a PR, & I will look into it.
+If there any issues in the repository, or you want to upgrade the code structure, just send a PR, & I will look into it.
 
 Happy Cracking!
